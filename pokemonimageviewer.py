@@ -1,3 +1,12 @@
+##################
+#Comp593 lab 9
+#created Aaron Gumba
+#april 22,2022
+#python script that uses Gui to set desktop background after it gets its info from PokeAPI
+#usage python pokemonimageviewer.py path
+##############
+
+
 from tkinter import *
 from tkinter import ttk
 import sys
